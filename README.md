@@ -4,7 +4,7 @@ which takes Name, and Age as input, and displays to MainActivity's TextViews
 
 
 
---------------------------------------NOTE ---------------------------------------------------------------
+--------------------------------------------------------------------NOTE ----------------------------------------------------------------------------------
 /*There is an issue in DialogFragment when a user doesn't give any input to the dialog fragment and clicks on the Ok button 
 the app is gonna crashed.So, Replace this code with the main code of the MyDialogFragment class - 
 
