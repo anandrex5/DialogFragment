@@ -27,8 +27,7 @@ the app is gonna crashed.So, Replace this code with the main code of the MyDialo
         }
         // Inflate the layout for this fragment
         return view
-    }
-}
+    }}
 
 
 
